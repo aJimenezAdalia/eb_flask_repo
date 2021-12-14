@@ -1,10 +1,10 @@
 from flask import Flask
 # print a nice greeting.
 def say_hello(username = "World"):
-    return '<p>Hello %s!</p>\n' % username
+    return '<p>Ahora Bye %s!</p>\n' % username
 # some bits of text for the page.
 header_text = '''
-<html>\n<head> <title>EB Flask Test</title> </head>\n<body>'''
+<html>\n<head> <title>EEEEeyyyyyy</title> </head>\n<body>'''
 instructions = '''
 <p><em>Hint</em>: This is a RESTful web service! Append a
 username
